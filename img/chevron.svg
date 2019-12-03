@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="10px" height="7px" viewBox="0 0 10 7" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 60.1 (88133) - https://sketch.com -->
+    <title>Mask</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="6.792 -1.793 1.793 3.207 6.792 8.207 8.207 6.793 4.621 3.207 8.207 -0.378"></polygon>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Form/Select/No-label/Default" transform="translate(-52.000000, -21.000000)">
+            <g id="Chunky/Chevron_down/24_small" transform="translate(52.000000, 21.000000)">
+                <g id="Color">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <use id="Mask" fill="#4B4D63" transform="translate(5.000000, 3.207000) rotate(-90.000000) translate(-5.000000, -3.207000) " xlink:href="#path-1"></use>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
